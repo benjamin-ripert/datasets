@@ -1,13 +1,8 @@
 {
-  "name": "@observablehq/flare",
+  "name": "@benjamin-ripert/flare",
   "version": "0.0.0",
-  "description": "The Flare package hierarchy.",
+  "description": "Firms List, as a test.",
   "keywords": ["datasets"],
-  "homepage": "https://github.com/observablehq/datasets/tree/master/flare",
-  "repository": "https://github.com/observablehq/datasets/tree/master/flare",
-  "license": "ISC",
-  "author": {
-    "name": "Mike Bostock",
-    "url": "https://bost.ocks.org/mike"
-  }
+  "homepage": "https://github.com/benjamin-ripert/datasets/tree/master/flare",
+  "repository": "https://github.com/benjamin-ripert/datasets/tree/master/flare"
 }
